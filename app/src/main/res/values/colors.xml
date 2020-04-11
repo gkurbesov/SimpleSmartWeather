@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00E5FF</color>
+    <color name="colorPrimaryDark">#00B0FF</color>
+    <color name="colorPrimaryLight">#84FFFF</color>
+    <color name="colorAccent">#FF4DE2</color>
+    <color name="colorTemp">#AAAAAA</color>
+    <color name="colorBackground">#FAFAFA</color>
+
+
+    <color name="colorWind">#1DE9B6</color>
+    <color name="colorCloud">#26C6DA</color>
+</resources>

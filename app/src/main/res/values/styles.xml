@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextTempStyle">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textColor">@color/colorTemp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">60sp</item>
+        <item name="fontWeight">100</item>
+    </style>
+
+</resources>
