@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SimpleSmartWeather</string>
+
+
+    <string name="update_error">Не удалось обновить данные</string>
+    <string name="empty_data">Нет данных</string>
+    <string name="enter_city_name">Введите название вашего города</string>
+
+
 </resources>

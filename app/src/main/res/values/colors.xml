@@ -6,8 +6,14 @@
     <color name="colorAccent">#FF4DE2</color>
     <color name="colorTemp">#AAAAAA</color>
     <color name="colorBackground">#FAFAFA</color>
+    <color name="colorTipBackground">#F0F0F0</color>
+    <color name="colorTip">#FFAB00</color>
 
 
     <color name="colorWind">#1DE9B6</color>
-    <color name="colorCloud">#26C6DA</color>
+    <color name="colorCloud">#0091EA</color>
+    <color name="colorPressure">#FF80AB</color>
+    <color name="colorWater">#26C6DA</color>
+
+    <color name="colorButton">#989898</color>
 </resources>
